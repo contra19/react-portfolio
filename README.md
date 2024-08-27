@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-14.17.0-green.svg)](https://nodejs.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black.svg)](https://github.com/contra19/react-portfolio)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/447084cc-e79c-4fef-aea2-68066ef99898/deploy-status)](https://app.netlify.com/sites/portfolio-contra19/deploys)
 
 ## Description
 
